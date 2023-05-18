@@ -1,0 +1,22 @@
+aiogram==3.0.0b7
+# pip install -U --pre aiogram
+environs==9.5.0
+#redis==4.5.4
+betterlogging==0.2.1
+
+# # For enabling api:
+# backoff~=2.2.1
+# aiohttp~=3.8.4
+# ujson~=5.7.0
+# yarl~=1.9.1
+
+# # For PostgreSQL sqlalchemy + alembic:
+# sqlalchemy~=2.0
+# alembic~=1.0
+# asyncpg
+aiohttp~=3.8.4
+yarl~=1.9.2
+pep8-naming==0.13.3
+flake8-broken-line==0.6.0
+flake8-return==1.2.0
+flake8-isort==6.0.0
